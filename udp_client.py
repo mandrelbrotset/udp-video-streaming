@@ -2,9 +2,10 @@ import cv2
 import socket
 import math
 import pickle
+import sys
 
 max_length = 65000
-host = "192.168.0.2"
+host = sys.argv[1]
 port = 5000
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
