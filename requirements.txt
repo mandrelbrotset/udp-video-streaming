@@ -3,7 +3,7 @@ colorama==0.4.3
 isort==4.3.21
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
-numpy==1.18.2
+numpy==1.22.0
 opencv-contrib-python==4.2.0.32
 pylint==2.4.4
 six==1.14.0
